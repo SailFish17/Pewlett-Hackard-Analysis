@@ -26,5 +26,5 @@ Based on this analysis the following information was observed:
     ![retirement_titles](https://github.com/SailFish17/Pewlett-Hackard-Analysis/blob/main/images/retirement_titles%20(3).png)
     * Using the count function on the mentorship table better shows the break down of employees per title.
 
-    ![mentorship_eligibility](images/mentorship_eligibility.PNG)
+    ![mentorship_eligibility](https://github.com/SailFish17/Pewlett-Hackard-Analysis/blob/main/images/Mentorship_eligibility.png)
 
