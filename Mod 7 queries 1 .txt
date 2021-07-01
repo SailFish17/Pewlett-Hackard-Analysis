@@ -23,3 +23,16 @@ SELECT * FROM retirement_info;
 
 
 
+SELECT r.emp_no, 
+	r.last_name,
+	r.first_name,
+	d.dept_name
+INTO sales_retirement_info
+	FROM retirement_info as r
+	INNER JOIN dept_emp as de
+	ON (r.emp_no = de.emp_no)
+	INNER JOIN departments as d
+	ON (de.dept_no=d.dept_no)
+	WHERE d.dept_name IN ('Sales', 'Development')
+	ORDER BY r.emp_no;
+
