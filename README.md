@@ -23,7 +23,7 @@ Based on this analysis the following information was observed:
 3. The following two tables provide more insight into the silver tsunami.
     * Filtering out the retirement data to ensure only currenly employeed people are counted and re-executing the count query provides the following table. (This reduces the total to 72,458)
 
-    ![retirement_titles](images/retirement_titles (3).PNG)
+    ![retirement_titles](https://github.com/SailFish17/Pewlett-Hackard-Analysis/blob/main/images/retirement_titles%20(3).png)
     * Using the count function on the mentorship table better shows the break down of employees per title.
 
     ![mentorship_eligibility](images/mentorship_eligibility.PNG)
