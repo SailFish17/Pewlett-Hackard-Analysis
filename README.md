@@ -7,14 +7,10 @@ The purpose of this analysis is to look at retirement population and mentorship 
 ## Results
 Based on this analysis the following information was observed:
 * Over 90,000 employees are in the age range for retirement
-![unique_titles_table](images/unique_titles_table.PNG)
-![unique_titles](images/unique_titles.PNG)
 * There are 7 employee titles in the retirement age grouping, the two with the highest number of employees are Senior Engineer and Senior Staff
-![retiring_titles](images/retiring_titles.PNG)
 * There are only 2 managers in the retirement age group
 * There are 1,549 employees in the mentorship age group
-![mentorship_table](images/mentorship_table.PNG)
-![mentorship_total](images/mentorship_total.PNG)
+
 
 ## Summary
 1. According to this analysis 90,398 roles will need to be filled as the "Silver Tsunami" begins. However, this analysis didn't sort for current employees.
