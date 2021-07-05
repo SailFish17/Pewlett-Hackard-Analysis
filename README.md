@@ -2,8 +2,7 @@
 
 ## Overview
 The purpose of this analysis is to look at retirement population and mentorship population for Pwelett Hackard employees using SQL. This is achieved by looking at employees born between 1952 and 1955. Additionally, the employee population was evaluated for employees who would be good candidates for a mentorship program. This focused on current employees born in 1965. The query code can be found here [Queries](Queries)  
-[Employee_Database_challenge](Employee_Database_challenge.sql).   
-The results of the queries are included in the folder here: [Queries](Queries)
+
 
 ## Results
 Based on this analysis the following information was observed:
